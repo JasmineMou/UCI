@@ -1,1 +1,0 @@
-This is the folder for UCI course CS 122B: Projects in Databases and Web Applications.
